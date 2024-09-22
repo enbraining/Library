@@ -31,4 +31,4 @@ Headless Service를 사용한다.
 - 기존의 파드를 지우고 재생성한다면, 기존 이름으로 생성된다.
 - replicas가 0이라면, 마지막 인덱스 파드부터 순차적으로 지워진다. (pod-8, pod-7, pod-6 ...)
 
-![Headless Diagram](/x.%20images/k8s%20headless%20diagram.png)
+![Headless Diagram](../../x.%20Images/k8s%20headless%20diagram.png)
